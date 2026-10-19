@@ -5,6 +5,8 @@
 > **AI-powered no-show prediction for student event organizers.**
 > Built for **AI Dev Fest 2026** · Organized by DIU CPC · Sponsored by Upay
 
+[![AI Dev Fest 2026](https://img.shields.io/badge/Hackathon-AI%20Dev%20Fest%202026-purple)](https://github.com/sadika-dotcom/FinPilot-AI)
+
 ![Status](https://img.shields.io/badge/status-working-brightgreen)
 ![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.7820-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
